@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://limpa1231.github.io/csb-y2b2j/static/css/main.f3876914.chunk.css",
+    "main.js": "https://limpa1231.github.io/csb-y2b2j/static/js/main.8d80b62c.chunk.js",
+    "main.js.map": "https://limpa1231.github.io/csb-y2b2j/static/js/main.8d80b62c.chunk.js.map",
+    "runtime-main.js": "https://limpa1231.github.io/csb-y2b2j/static/js/runtime-main.b46ab074.js",
+    "runtime-main.js.map": "https://limpa1231.github.io/csb-y2b2j/static/js/runtime-main.b46ab074.js.map",
+    "static/js/2.67ea834e.chunk.js": "https://limpa1231.github.io/csb-y2b2j/static/js/2.67ea834e.chunk.js",
+    "static/js/2.67ea834e.chunk.js.map": "https://limpa1231.github.io/csb-y2b2j/static/js/2.67ea834e.chunk.js.map",
+    "index.html": "https://limpa1231.github.io/csb-y2b2j/index.html",
+    "static/css/main.f3876914.chunk.css.map": "https://limpa1231.github.io/csb-y2b2j/static/css/main.f3876914.chunk.css.map",
+    "static/js/2.67ea834e.chunk.js.LICENSE.txt": "https://limpa1231.github.io/csb-y2b2j/static/js/2.67ea834e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b46ab074.js",
+    "static/js/2.67ea834e.chunk.js",
+    "static/css/main.f3876914.chunk.css",
+    "static/js/main.8d80b62c.chunk.js"
+  ]
+}
